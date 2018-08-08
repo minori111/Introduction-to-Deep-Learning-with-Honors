@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\intro-to-dl\\week6\\weights"
+all_model_checkpoint_paths: "D:\\intro-to-dl\\week6\\weights_21"
+all_model_checkpoint_paths: "D:\\intro-to-dl\\week6\\weights_22"
+all_model_checkpoint_paths: "D:\\intro-to-dl\\week6\\weights_23"
+all_model_checkpoint_paths: "D:\\intro-to-dl\\week6\\weights_24"
+all_model_checkpoint_paths: "D:\\intro-to-dl\\week6\\weights"
